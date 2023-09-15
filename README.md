@@ -1,5 +1,7 @@
 ### Hello 👋
 
+[![GitHub Streak](https://github-readme-streak-stats-topaz-eight.vercel.app?user=CoeF&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=505)](https://git.io/streak-stats)
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning.
